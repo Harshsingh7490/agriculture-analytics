@@ -27,6 +27,9 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed
 
+### Deployed Link
+https://main--agricullture-analytics.netlify.app/
+
 ### Screenshots
 ![Screenshot 2024-06-28 at 15-06-35 Agriculture analytics](https://github.com/Harshsingh7490/agriculture-analytics/assets/57484299/f6d0a2a7-177c-480c-97af-cd9db82c3de6)
 ![Screenshot 2024-06-28 at 15-08-04 Agriculture analytics](https://github.com/Harshsingh7490/agriculture-analytics/assets/57484299/da17367d-785b-4a42-a15b-250bf44a9cd0)
